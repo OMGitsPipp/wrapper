@@ -7,7 +7,7 @@ No need for an Android emulator to decrypt ALAC files. All files from anonymous.
 For best results, it's recommended to use **Windows Subsystem for Linux (WSL)**.
 
 # Special thanks
-- Anonymous, for providing the original version of this project and the legacy Frida decryption method.
+- Anonymous, for providing the original version of this project and the legacy Frida decryp .
 - chocomint, for providing support for arm64 arch.
 
 ---
